@@ -1,10 +1,10 @@
 
-Certainly! Below is a README.md file that covers various design patterns in Dart, providing a brief overview of each pattern and examples in Dart where applicable.
+###Design Patterns in Dart
 
-Design Patterns in Dart
+
 This repository provides examples of common design patterns implemented in Dart. Design patterns are reusable solutions to common software design problems that have been refined over time. They help developers create software that is more maintainable, flexible, and scalable.
 
-Creational Patterns
+##Creational Patterns
 1. Factory Method
 Intent: Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
 
